@@ -1,0 +1,24 @@
+{
+  "name": "@digital-fireworks/prettier-config",
+  "version": "1.0.0",
+  "description": "Digital Fireworks Prettier Config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digital-fireworks/prettier-config.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "dependencies": {
+    "prettier": "^2.8.8"
+  },
+  "devDependencies": {
+    "semantic-release": "^21.0.3"
+  }
+}
