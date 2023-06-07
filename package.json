@@ -1,6 +1,5 @@
 {
   "name": "@digital-fireworks/prettier-config",
-  "version": "1.0.0",
   "description": "Digital Fireworks Prettier Config",
   "repository": {
     "type": "git",
